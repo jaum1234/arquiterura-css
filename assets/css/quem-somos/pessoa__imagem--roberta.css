@@ -1,0 +1,10 @@
+.pessoa__imagem--roberta{
+    background-image: url('../../img/pessoas/roberta.jpg');
+}
+
+@media screen and (max-width: 768px){
+    .pessoa__imagem--roberta{
+        display: flex;
+        justify-content: center;
+    }
+}

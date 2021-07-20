@@ -1,0 +1,7 @@
+/* Display flex : alinha elementos
+
+flex collumn: deixa os elementos em coluna.
+flex wrap: quebra a linha de acordo com o tamanho da página.
+flex row: alinha os elementos um ao lado do outro. 
+
+*/

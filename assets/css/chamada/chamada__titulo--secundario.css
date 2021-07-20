@@ -1,0 +1,19 @@
+.chamada__titulo--secundario{
+    color: #8d0606;
+    font-family: Pacifico,cursive;
+    font-size: 3.1875rem;
+}
+
+@media screen and (min-width:0){
+    .chamada__titulo--secundario{
+        font-size: 2rem;
+
+    }
+}
+
+@media screen and (min-width:768px){
+    .chamada__titulo--secundario{
+        font-size: 3.1875rem;
+
+    }
+}

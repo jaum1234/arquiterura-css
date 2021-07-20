@@ -1,0 +1,7 @@
+.cabecalho__item {
+    list-style: none;
+}
+
+.cabecalho__item:last-child a {
+    margin-right: 0;
+}

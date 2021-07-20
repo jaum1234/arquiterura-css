@@ -1,0 +1,1 @@
+Imagens que exercem apenas a funcao ilustrativa devem ser colocar via CSS.
